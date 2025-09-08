@@ -1,0 +1,12 @@
+$primary : #49BBBD;
+$info:#27B1DC;
+$success:#252641;
+
+//fonts
+
+
+$font-family-base:"Poppins","sans-serif";
+
+@import './../../node_modules/bootstrap/scss/functions';
+@import './../../node_modules/bootstrap/scss/variables';
+@import './../../node_modules/bootstrap/scss/bootstrap.scss';
